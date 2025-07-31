@@ -9,3 +9,15 @@ sources:
        - name: raw_payments
        - name: raw_orders
        - name: raw_customers
+       - name: customers_ss
+       - name: student_1
+       - name: emp_sal
+       - name: sales1
+       - name: EMP_SOURCE
+       - name: EMP_SOURCE1
+       - name: sales_incr
+       - name: EMP_SOURCE2
+       - name: pizza_sales
+       - name: tab_cust
+       - name: employees
+     

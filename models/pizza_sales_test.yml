@@ -1,0 +1,17 @@
+models:
+  - name:  pizza_sales_stg  
+    columns:
+      - name: id
+        tests:
+          - unique
+          - not_null
+  - name:  tab_cust_stg  
+    columns:
+      - name: email
+        tests:
+          - check_email
+          - unique
+          - not_null
+          
+          
+
